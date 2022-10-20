@@ -12,7 +12,7 @@
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=Kambuse+Developer",
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
@@ -41,15 +41,15 @@
 
 "STARTAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-9888696960348640/4329027909",
+"ADMOB_INTER" : "ca-app-pub-9888696960348640/1702864566",
+"ADMOB_NATIV" : "ca-app-pub-9888696960348640/4202687788",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
+"HPK_ALIENDROID" : "Health",
+"HPK_ADMOB1" : "Website Gratis",
+"HPK_ADMOB2" : "Pinjaman",
+"HPK_ADMOB3" : "Tiket Pesawat",
+"HPK_ADMOB4" : "Asuransi",
 "HPK_ADMOB5" : "Donasi",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
@@ -58,10 +58,10 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "4114625",
+"UNITY_GAME_ID" : "4114625--",
 
-"APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_MAX_ID" : "71f5f-af4df08917c",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7-dc",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
