@@ -12,7 +12,7 @@
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.kambusedev.dangdutnostalgiamp3player",
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
@@ -41,15 +41,15 @@
 
 "STARTAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-9888696960348640/3706258136",
+"ADMOB_INTER" : "ca-app-pub-9888696960348640/1080094797",
+"ADMOB_NATIV" : "ca-app-pub-9888696960348640/1080094797",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
+"HPK_ALIENDROID" : "Software VPN",
+"HPK_ADMOB1" : "Harbolnas",
+"HPK_ADMOB2" : "Hosting Terbaik",
+"HPK_ADMOB3" : "Website E-Commerce",
+"HPK_ADMOB4" : "Tiket Pesawat",
 "HPK_ADMOB5" : "Donasi",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
